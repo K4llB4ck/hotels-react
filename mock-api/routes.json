@@ -1,0 +1,4 @@
+{
+    "/admin_list_active_users": "/660/customers",
+    "/admin_delete_user\\?id=:id":"/660/customers/:id"
+}

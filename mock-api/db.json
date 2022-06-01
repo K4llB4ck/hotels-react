@@ -1,0 +1,35 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "firstname": "Jerfeson Alexander",
+      "lastname": "Rocha Romero",
+      "email": "admin@gmail.com",
+      "company": "Kallback",
+      "password": "$2a$12$IzmnVGXUXaByiY3SKtETVOzM86LVeQWP2MVVnoB3h/oN08v10cuJ."
+    }
+  ],
+  "customers": [
+    {
+      "id": 2,
+      "firstname": "Fernando",
+      "lastname": "Bernatte",
+      "email": "fbernatte@icloud.com",
+      "company": "Mercadolibre"
+    },
+    {
+      "email": "uiy@hotmail.com",
+      "firstname": "Laura Melisa",
+      "lastname": "Rocha Romero",
+      "company": "kallback",
+      "id": 3
+    },
+    {
+      "firstname": "Angel",
+      "lastname": "David",
+      "company": "kallback",
+      "email": "hola@hotmail.com",
+      "id": 4
+    }
+  ]
+}
