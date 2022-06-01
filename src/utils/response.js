@@ -5,7 +5,6 @@ const processRequest = async (request) => {
         const data = response.data;
         return data;
     } catch (e) {
-        console.log(e,'entrar aqis');
 
         const typeErrors = Object.keys(e.response.data.errors);
 
