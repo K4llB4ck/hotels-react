@@ -9,6 +9,7 @@ import Paper from '@mui/material/Paper';
 import Fab from '@mui/material/Fab';
 import BedroomChildIcon from '@mui/icons-material/BedroomChild';
 import { Hotel } from '@mui/icons-material';
+import {Container} from './styles';
 
 
 
@@ -52,11 +53,13 @@ const TableComponent = ({ headers = [], data = [], handleAssign }) => {
 
 
     return (
+        <Container>
         <Table  aria-label="simple table">
             {getHeaders()}
             {getData}
 
         </Table>
+        </Container>
     )
 }
 

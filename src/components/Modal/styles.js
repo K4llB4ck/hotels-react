@@ -17,6 +17,7 @@ align-items:center;
 border:none;
 @media (max-width: 500px) {
     width:90%;
+    box-sizing: border-box;
   }
 
 `;
